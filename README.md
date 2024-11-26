@@ -1,6 +1,6 @@
 ## About me 
 
-Hey there! My name is Andrés, Data Scientist and Economist. I have got experience working on data analytics in the fields of Sustainable Development Goals and Infrastructure sector. As I became passionate about problem solving through data, I decided to become a Data Scientist. Through Machine Learning models, different statistical tools and data visualization, I seek valuable information through pattern recognition in specific topics.
+Hey there! My name is Andrés, Data Scientist and Economist. I have experience working on data analytics in the fields of Sustainable Development Goals and Infrastructure sector. As I became passionate about problem solving through data, I decided to become a Data Scientist. Through Machine Learning models, different statistical tools and data visualization, I seek valuable information through pattern recognition in specific topics.
 
 ## 📚 Projects
 
