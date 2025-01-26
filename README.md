@@ -6,8 +6,8 @@ Hey there! My name is Andrés, Data Scientist and Economist. I have experience w
 
 1. Predictive Factors of Powerlifting Competition Performance (Master´s Thesis): A Logistic Regression model on R to predict athletes reaching the podium with up to 79% accuracy and 85% AUC. Optimized through threshold adjustment and feature engineering. 
 2. Flight Delays project: Using a Random Forest classifier and oversampling techniques with Python, determined the variables that predicted flight delays with a 89% accuracy.
-3. Oncologic cases: Detecting patients with tumors with a KNN model with an 85% accuracy rate using R. 
-4. Lego Sets project: Report with visual storytelling with R on Lego sets. 
+3. Lego Sets: A visual analysis project on R to identify patterns of Lego sets from 2018-2020. Star Wars is the most important theme, as it has an important impact in most variables measured. 
+4. Oncologic cases: Detecting patients with tumors with a KNN model with an 85% accuracy rate using R.
 5. Telecom company study: Through statistical inference, determined that customer leakage can be explained up to 67% by customer seniority. 
 6. Data analysis of small businesses: With SQL Snowflake, extracted meaningful data of small businesses in relation to sellings, economical values, returns and countries of origin.
 
